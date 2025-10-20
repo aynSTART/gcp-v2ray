@@ -6,7 +6,7 @@
       "settings": {
         "clients": [
           {
-            "id": "ba0e3984-ccc9-48a3-8074-b2f507f41ce8",
+            "id": "8ef998a7-f90f-4f26-bc68-30af9e2cd036",
             "level": 0
           }
         ],
@@ -16,7 +16,7 @@
         "network": "ws",
         "security": "none",
         "wsSettings": {
-          "path": "/tg-@nkka404"
+          "path": "https://t.me/aynHTTP"
         }
       }
     }
